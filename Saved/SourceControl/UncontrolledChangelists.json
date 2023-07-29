@@ -1,0 +1,36 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"G:/UEProjects/RPG/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"G:/UEProjects/RPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"G:/UEProjects/RPG/Content/ThirdPerson/Animation/StandingMeleeAttackDownward_1__UE.uasset",
+				"G:/UEProjects/RPG/Content/Characters/RPG_Character/Animations/Locomotion/Walk_Stop.uasset",
+				"G:/UEProjects/RPG/Content/Characters/RPG_Character/Animations/Locomotion/Idle_Break.uasset",
+				"G:/UEProjects/RPG/Content/Characters/RPG_Character/Animations/Crouch/Crouch_Idle.uasset",
+				"G:/UEProjects/RPG/Content/Characters/RPG_Character/Animations/Crouch/Crouh_Walk.uasset",
+				"G:/UEProjects/RPG/Content/Characters/RPG_Character/Animations/Locomotion/BS_Locomotion.uasset",
+				"G:/UEProjects/RPG/Content/Characters/RPG_Character/Animations/ABP_RPGCharacter.uasset",
+				"G:/UEProjects/RPG/Content/Characters/Mannequins/Animations/ABP_Manny.uasset",
+				"G:/UEProjects/RPG/Content/ThirdPerson/Input/Actions/IA_Crouch.uasset",
+				"G:/UEProjects/RPG/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"G:/UEProjects/RPG/Content/Characters/RPG_Character/Animations/Crouch/CrouchedBlendSpace.uasset",
+				"G:/UEProjects/RPG/Content/Characters/RPG_Character/Animations/Lean/MM_Lean_Left.uasset",
+				"G:/UEProjects/RPG/Content/Characters/RPG_Character/Animations/Lean/MM_Lean_Right.uasset",
+				"G:/UEProjects/RPG/Content/Characters/RPG_Character/Animations/Lean/LeanBlendSpace1D.uasset",
+				"G:/UEProjects/RPG/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue.uasset",
+				"G:/UEProjects/RPG/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue1.uasset",
+				"G:/UEProjects/RPG/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"G:/UEProjects/RPG/Content/Characters/Mannequins/Materials/Instances/Manny/MI_Manny_Blue2.uasset",
+				"G:/UEProjects/RPG/Content/ThirdPerson/Animation/ABP_Maximo.uasset",
+				"G:/UEProjects/RPG/Content/ThirdPerson/Animation/BS_Maximo.uasset",
+				"G:/UEProjects/RPG/Content/ThirdPerson/Animation/BS_Run_Maximo.uasset",
+				"G:/UEProjects/RPG/Content/ThirdPerson/Animation/SKM_Maximo.uasset",
+				"G:/UEProjects/RPG/Content/ThirdPerson/Animation/Slow_Run.uasset"
+			]
+		}
+	]
+}
