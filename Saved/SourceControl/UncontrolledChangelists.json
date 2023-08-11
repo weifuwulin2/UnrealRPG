@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"G:/UEProjects/UnrealRPG/UnrealRPG/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver.uasset",
+				"G:/UEProjects/UnrealRPG/UnrealRPG/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage.uasset",
+				"G:/UEProjects/UnrealRPG/UnrealRPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"G:/UEProjects/UnrealRPG/UnrealRPG/Content/Characters/Mannequins/Meshes/SK_Mannequin.uasset",
+				"G:/UEProjects/UnrealRPG/UnrealRPG/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/NW/61XR9GT91QZEXMI4NTQJOZ.uasset",
+				"G:/UEProjects/UnrealRPG/UnrealRPG/Content/Characters/RPG_Character/Animations/Vaulting/VaultOver_Montage1.uasset",
 				"G:/UEProjects/RPG/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
 				"G:/UEProjects/RPG/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"G:/UEProjects/RPG/Content/ThirdPerson/Animation/StandingMeleeAttackDownward_1__UE.uasset",
